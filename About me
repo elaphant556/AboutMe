@@ -4,7 +4,7 @@
 <head>
 <style>
 body { background-color: LawnGreen ;}
-<button> button </button>
+<button onclick= "button()"> </button>
 </style>
 </head>
 <br>
